@@ -1,0 +1,14 @@
+PyPDF2
+sentence_transformers
+transformers
+bitsandbytes
+nltk
+scikit-learn
+torch
+# ==2.0.1+cu125 -f https://download.pytorch.org/whl/cu125
+# torchvision==0.15.2+cu125 -f https://download.pytorch.org/whl/cu125
+# torchaudio==2.0.1+cu125 -f https://download.pytorch.org/whl/cu125
+python-dotenv
+watchdog
+accelerate
+pymilvus
