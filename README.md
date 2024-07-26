@@ -17,6 +17,8 @@ Before you begin, ensure you have the following installed:
     Navigate to the `app/scripts` directory and activate the virtual environment.
 
     ```sh
+    python -m venv app
+
     app/scripts/activate
     ```
 
